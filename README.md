@@ -21,12 +21,12 @@ Coming Soon!
 - **LinkedIn:** [Connect with Us](https://www.linkedin.com/in/sven-bosau/)
 - **Instagram:** [Follow Us](https://www.instagram.com/sven_bosau/)
 
-## Support Our Work
-Appreciate our content? Consider [buying us a coffee](https://pythonandvba.com/coffee-donation) to support our work. Your support goes a long way in keeping this project alive!
+## Support My Work
+Appreciate my content? Consider [buying us a coffee](https://pythonandvba.com/coffee-donation) to support my work. Your support goes a long way in keeping this project alive!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
 
 ## Feedback
-We value your thoughts and suggestions. Feel free to reach out at contact@pythonandvba.com. Your feedback is integral to the growth and improvement of this project.
+I value your thoughts and suggestions. Feel free to reach out at contact@pythonandvba.com. Your feedback is integral to the growth and improvement of this project.
 
 ![Logo](https://www.pythonandvba.com/banner-img)
